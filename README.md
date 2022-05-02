@@ -32,9 +32,3 @@ I am currently stying Computer Science/Software Development at [42 São Paulo](h
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/pedroddomingues"><img src="https://github-readme-stats.vercel.app/api?username=pedroddomingues&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pedroddomingues's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/pedroddomingues/aproximating_pi_nextjs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroddomingues&repo=aproximating_pi_nextjs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/pedroddomingues/desafio-casa-do-dev" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroddomingues&repo=desafio-casa-do-dev&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/pedroddomingues/42cursus" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroddomingues&repo=42cursus&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/pedroddomingues/labs_api" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pedroddomingues&repo=labs_api&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
