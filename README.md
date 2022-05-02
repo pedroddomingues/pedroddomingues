@@ -1,6 +1,8 @@
 Hi 👋 My name is Pedro Domingues
 ================================
 
+I am currently stying Computer Science/Software Development at [42 São Paulo](http://42sp.org.br) and completed [rocketseat](https://rocketseat.com.br/) bootcamp of Node.js, React and React Native with JavaScript/TypeScript.
+
 * 🌍  I'm based in Brazil
 * 🖥️  See my portfolio at [pedroddomingues.dev](http://pedroddomingues.dev)
 * ✉️  You can contact me at [pedroddomingues@gmail.com](mailto:pedroddomingues@gmail.com)
